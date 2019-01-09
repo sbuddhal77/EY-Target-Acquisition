@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sbuddhal77/EY-Target-Acquisition.git"
+    "url": "git+https://github.com/sbuddhal77/EY-Target-Acquisition.git"
   },
   "dependencies": {
     "angular": "1.7.x",
